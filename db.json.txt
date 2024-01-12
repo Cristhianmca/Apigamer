@@ -1,5 +1,4 @@
-export const categoriagamer = [
-    {
+  {
         Id: 1,
         name: 'Dell PC de factor de forma pequeño OptiPlex 5050',
         informacion: 'Dell Computadoras de escritorio OptiPlex 5050 PC, Intel i7-6700 3.4GHz, 32 GB DDR4 Ram nuevo 1TB M.2 NVMe SSD+2TB HDD, Intel AX200 WiFi 6 integrado,...',
